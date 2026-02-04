@@ -26,6 +26,8 @@ Function works for 96-well plates loaded in the manner.
 The `protein_quantifier()` function generates a BSA standard curve using linear regression and calculates the concentration of unknown protein samples from their absorbance values.
 
 ### Example Results
+1. Once ran the graph will pop up and you are able to save.
+2. When you close the graph the protein concetrations of your samples will show in the terminal
 
 The function returns:
 - The fitted regression equation 
