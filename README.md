@@ -1,6 +1,6 @@
 # LabPod
 
-LabPod is a small Python toolkit for lab data analysis - inspired by Lab work on Imperial's Medical Biosciences BSc.  
+LabPod is a small Python toolkit for lab data analysis - inspired by lab work on Imperial's Medical Biosciences BSc.  
 Currently includes `protein_quantifier()` for BSA standard curve fitting + protein concentration calculation from your fixed Excel layout - example below.
 
 [![PyPI version](https://img.shields.io/pypi/v/LabPod.svg)](https://pypi.org/project/LabPod/)
@@ -27,15 +27,8 @@ The `protein_quantifier()` function generates a BSA standard curve using linear 
 ### Example Results
 
 The function returns:
-- The fitted regression equation (slope and intercept)
+- The fitted regression equation 
 - The coefficient of determination (R²)
-- The calculated protein concentration for the unknown sample - assuming you sample is the sam econcetration as your stock.
+- A plotted BSA curve
+- The calculated protein concentration for each unknown sample (labeled as in the image above) - assuming you sample is the same econcetration as your stock.
 
-Example console output:
-
-```text
-Slope: 0.00124
-Intercept: 0.0321
-R²: 0.998
-
-Protein concentration (unknown sample): 1.37 µg/mL
