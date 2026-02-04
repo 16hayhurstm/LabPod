@@ -15,6 +15,7 @@ pip install LabPod
 ## How to use
 In python file run: 
 ```python
+from labpod import protein_quantifier
 protein_quantifier("path to you excel file", number of protein sample)
 ```
 Function works for 96-well plates loaded in the manner.
