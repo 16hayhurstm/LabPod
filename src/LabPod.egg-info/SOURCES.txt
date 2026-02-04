@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/LabPod.egg-info/PKG-INFO
+src/LabPod.egg-info/SOURCES.txt
+src/LabPod.egg-info/dependency_links.txt
+src/LabPod.egg-info/entry_points.txt
+src/LabPod.egg-info/requires.txt
+src/LabPod.egg-info/top_level.txt
+src/labpod/__init__.py
+src/labpod/cli.py
+src/labpod/protein.py
+src/labpod/test_protein_quant.py

@@ -1,0 +1,2 @@
+[console_scripts]
+labpod-protein = labpod.cli:main
