@@ -4,7 +4,7 @@ LabPod is a small Python toolkit for lab data analysis - inspired by Lab work on
 Currently includes `protein_quantifier()` for BSA standard curve fitting + protein concentration calculation from your fixed Excel layout - example below.
 
 [![PyPI version](https://img.shields.io/pypi/v/LabPod.svg)](https://pypi.org/project/LabPod/)
-[![Downloads](https://static.pepy.tech/badge/labpod)](https://pepy.tech/project/labpod)
+[![Downloads](https://static.pepy.tech/badge/LabPod)](https://pepy.tech/project/LabPod)
 
 ## Install
 
