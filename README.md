@@ -8,7 +8,7 @@ Currently includes `protein_quantifier()` for BSA standard curve fitting + prote
 [![Downloads](https://static.pepy.tech/badge/LabPod)](https://pepy.tech/project/LabPod)
 
 ## Collaboration
-If you have any ideas for additional function for the package/ want to contribute to the package with your own code please email me - mh1623@ic.ac.uk
+If you have any ideas for additional function for the package or want to contribute to the package with your own code please email me - mh1623@ic.ac.uk
 
 ## Install
 
